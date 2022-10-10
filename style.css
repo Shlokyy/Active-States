@@ -45,6 +45,7 @@ body{
     width: 130px;
     height: 40px;
     margin: 60px 0px;
+    cursor: pointer;
 }
 .m1 p{
     padding-top: 5px;
